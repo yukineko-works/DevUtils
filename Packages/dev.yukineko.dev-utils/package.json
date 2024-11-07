@@ -1,7 +1,7 @@
 {
   "name": "dev.yukineko.dev-utils",
   "displayName": "YN DevUtils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "yukineko's dev utils",
   "gitDependencies": {},
   "vpmDependencies": {
