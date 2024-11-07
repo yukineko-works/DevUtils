@@ -5,7 +5,7 @@
   "description": "yukineko's dev utils",
   "gitDependencies": {},
   "vpmDependencies": {
-    "com.vrchat.worlds": "3.7.1"
+    "com.vrchat.worlds": ">=3.7.1"
   },
   "author": {
     "name": "yukineko",
